@@ -1,0 +1,1 @@
+Start-Process -FilePath "C:\Users\Administrator\Downloads\jdk-8u231-windows-x64.exe" -ArgumentList "/s REBOOT=ReallySuppress" -Wait -PassThru
